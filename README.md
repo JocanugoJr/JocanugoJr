@@ -14,7 +14,7 @@
   <img align="center" alt="Jc-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Jc-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Jc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Jc-pic" height="150" style="border-radius:50px;" src="https://tenor.com/view/commodore-c64-saludo-ordenador-programar-gif-15559195?width=676&height=676">
+  <img align="right" alt="Jc-pic" height="150" style="border-radius:50px;" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47zpg59exv1zvipnocni0ibez8sxhjfioy5lj46cvk&rid=giphy.gif&ct=g?width=676&height=676">
 </div>
   
   ##
