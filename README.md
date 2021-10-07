@@ -1,7 +1,7 @@
 ##Carta de Apresentação
 
 - 👋 Olá, eu sou @JocanugoJr 
-- 👀 Meu atual interesse está em programação de I.A.
+- 👀 Meu atual interesse está em ser desafiado
 - 🌱 Venho estudando sobre criação de jogos e boas práticas de programação.
 
 <div align="center">
